@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @ViosRio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-ViosRio/ViosRio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><a href="</h2>
+
+<p align="center">
+  <img src="https://resmim.net/cdn/2023/04/26/SDsNOZ.gif">
+</p>
+<p align="center">
+    <a href="" alt="">
+
+> For business - t.me/ViosTeam
+
+## Github Stats
+![LizyAngelXdark❤️'s's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViosRio&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViosRio&layout=compact&show_icons=true&theme=synthwave)
+
+
+
+
+  
